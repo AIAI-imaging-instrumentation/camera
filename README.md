@@ -1,4 +1,4 @@
-# camera
+# Camera
 Control the ThorLabs DCC3240M camera from matlab
 
 ## Installation
